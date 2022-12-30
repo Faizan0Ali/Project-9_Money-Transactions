@@ -1,0 +1,61 @@
+.items{
+    display: flex;
+    display: inline-flex;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 0, 0);
+
+    
+}
+#index{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 5vh;
+    color: rgb(255, 0, 0);
+
+}
+#senderName-id{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 5vh;
+    color: rgb(255, 0, 0);
+
+}
+#receiverName-id{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 5vh;
+    color: rgb(255, 0, 0);
+
+}
+#purpose-id{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 5vh;
+    color: rgb(255, 0, 0);
+
+}
+#INR-id{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 5vh;
+    color: rgb(255, 0, 0);
+
+}
+.column{
+    display: flex;
+    display: inline-flex;
+    width: 100%;
+    text-align: center;
+    margin-left: 3px;
+    
+
+}
+p{
+    border: 1px solid rgb(43, 160, 224);
+    width: 100%;
+    height: 6vh; 
+    
+    color: rgb(255, 0, 0);
+}

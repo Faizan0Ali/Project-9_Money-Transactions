@@ -1,0 +1,111 @@
+* {
+     padding: 0;
+    box-sizing: 0; 
+}
+
+/* .post-container {
+    
+
+} */
+.pay-hind{
+   padding-top: 70px;
+   text-decoration-line: underline;
+   font-size: xx-large;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(67, 234, 48);
+  letter-spacing: 1px;
+}
+
+.form-container {
+
+
+    background-color: rgba(162, 60, 213, 0.732);
+    border-radius: 8px;
+    width: 50%;
+    height: 80vh; 
+
+    margin-top: 60px;
+    margin-left: 400px;  
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: 1px 5px 20px 1px black;
+    
+
+}
+
+input{
+    background-color: rgb(224, 224, 224);
+    border: none;
+    border-radius: 3px;
+    
+}
+label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+select{
+    background-color: rgb(224, 224, 224);
+    border: none;
+    border-radius: 3px;
+   
+}
+#submit-button{
+    width: 15%;
+    height: 3vh;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+#submit-button:hover{
+   background-color: rgba(54, 206, 72, 0.84);
+   cursor: pointer;
+}
+#records-button{
+    width: 10%;
+    height: 3vh;
+    margin-top: 15px;
+    margin-left: 720px;
+    border-radius: 5px;
+
+    background-color: rgb(255, 148, 71);
+  
+    
+}
+button{
+    text-decoration: none;
+}
+/* #amount-INR{
+   
+   display: inline;
+   padding-left: 181px;
+} */
+#amount-INR{
+   
+    display: inline-block;
+    position: fixed;
+    top: 40.5%;
+    right: 38%;
+    width: 10.7%;
+    height: 2.5vh;
+
+ }
+.x{
+   
+    background-color: rgb(213, 213, 213);
+    border-radius: 5px;
+
+}
+.purpose{
+    display: inline-block;
+    position: fixed;
+    top: 60.5%;
+    right: 38%;
+    width: 10.7%;
+    height: 2.5vh;
+    background-color: rgb(213, 213, 213);
+    border-radius: 5px;
+
+}
